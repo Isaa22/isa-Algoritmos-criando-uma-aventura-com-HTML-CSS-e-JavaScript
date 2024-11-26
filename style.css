@@ -13,6 +13,8 @@ body {
 button {
     background-color: #aaf5fa;
     color: ##800000;
+    border-start-start-radius: 50%;
+writing-mode: vertical-lr;
     font-family: "fantasy;", sans-serif;
 }
 
